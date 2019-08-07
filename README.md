@@ -1,3 +1,3 @@
 # react-happydrink
 
-## [Lien site déployer] (https://react-happydrink.herokuapp.com/)
+## [Lien site déployer](https://react-happydrink.herokuapp.com/)
